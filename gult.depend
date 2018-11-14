@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1532985179 source:c:\users\dj rafa\gult\main.cpp
+	<iostream>
+	<windows.h>
+	<Stb_image.h>
+	<fstream>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<Textures.h>
+	"Mario.h"
+	<chrono>
+
+1531626183 source:c:\users\dj rafa\gult\src\stb_image.cpp
+	"Stb_image.h"
+
+1531625420 c:\users\dj rafa\gult\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1532671365 source:c:\users\dj rafa\gult\src\textures.cpp
+	"Textures.h"
+	"../../Downloads/freeglut-MinGW-3.0.0-1.mp/freeglut/lib/stb_image_writer.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<fstream>
+
+1532571040 c:\users\dj rafa\gult\include\textures.h
+	<iostream>
+	<windows.h>
+	<Stb_image.h>
+	<fstream>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532563839 source:c:\users\dj rafa\gult\src\mario.cpp
+	"Mario.h"
+
+1532566700 c:\users\dj rafa\gult\include\mario.h
+
+1532563934 source:c:\users\dj rafa\gult\src\physics.cpp
+	"Physics.h"
+
+1532564676 c:\users\dj rafa\gult\include\physics.h
+
+1532570111 source:c:\users\dj rafa\gult\src\vec.cpp
+	"Vec.h"
+
+1532569125 c:\users\dj rafa\gult\include\vec.h
+
+1532655415 c:\users\dj rafa\downloads\freeglut-mingw-3.0.0-1.mp\freeglut\lib\stb_image_writer.h
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1536370649 source:c:\users\dj rafa\desktop\gult\main.cpp
+	<iostream>
+	<windows.h>
+	<Stb_image.h>
+	<fstream>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<Textures.h>
+	"Mario.h"
+	<chrono>
+
+1531629020 c:\users\dj rafa\desktop\gult\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1532574640 c:\users\dj rafa\desktop\gult\include\textures.h
+	<iostream>
+	<windows.h>
+	<Stb_image.h>
+	<fstream>
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532570300 c:\users\dj rafa\desktop\gult\include\mario.h
+
+1532567439 source:c:\users\dj rafa\desktop\gult\src\mario.cpp
+	"Mario.h"
+
+1532567534 source:c:\users\dj rafa\desktop\gult\src\physics.cpp
+	"Physics.h"
+
+1532568276 c:\users\dj rafa\desktop\gult\include\physics.h
+
+1531629783 source:c:\users\dj rafa\desktop\gult\src\stb_image.cpp
+	"Stb_image.h"
+
+1532674965 source:c:\users\dj rafa\desktop\gult\src\textures.cpp
+	"Textures.h"
+	"../../Downloads/freeglut-MinGW-3.0.0-1.mp/freeglut/lib/stb_image_writer.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<fstream>
+
+1532573711 source:c:\users\dj rafa\desktop\gult\src\vec.cpp
+	"Vec.h"
+
+1532572725 c:\users\dj rafa\desktop\gult\include\vec.h
+
